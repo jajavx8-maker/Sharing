@@ -111,6 +111,7 @@
         "password": "FiGFxCyrIF0DcLV"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg?t=1774577076",
     "role": [
       "echo",
       "soldier"
@@ -168,6 +169,7 @@
         "password": "siski33rs24RW2LEL432"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605",
     "role": [
       "echo",
       "soldier"
@@ -196,6 +198,7 @@
         "password": "Murah1234567."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
     "role": [
       "echo",
       "soldier"
@@ -218,13 +221,14 @@
       "soldier"
     ]
   },
-  "PERSONA ARENA ULTIMAX": {
+  "PERSONA 4 ARENA ULTIMAX": {
     "accounts": [
       {
         "username": "modomaza1970",
         "password": "A9mCYbaRKi1993"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579",
     "role": [
       "echo",
       "soldier"
@@ -262,6 +266,7 @@
         "password": "Jhnnprz123456789"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1089350/header.jpg?t=1663810795",
     "role": [
       "echo",
       "soldier"
@@ -352,6 +357,7 @@
         "password": "10041979Xz"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420",
     "role": [
       "echo",
       "soldier"
@@ -385,13 +391,7 @@
         "password": "Murah12345."
       }
     ],
-    "role": [
-      "echo",
-      "soldier"
-    ]
-  },
-  "SHINOBI: ART OF VENGEANCE": {
-    "accounts": [],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148930/7d23eb2b94b90212971ab88b3ad0285897c6805f/header.jpg?t=1780591507",
     "role": [
       "echo",
       "soldier"
@@ -408,6 +408,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1779926556",
     "role": [
       "echo",
       "soldier"
@@ -424,6 +425,7 @@
         "password": "Totalwarhammer312345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg?t=1780389642",
     "role": [
       "echo",
       "soldier"
@@ -464,6 +466,7 @@
         "password": "fD8DBMkXwOISPB5"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/2d8e4389e157b62f07bdc7c9468bf04010d574c0/header.jpg?t=1781662166",
     "role": [
       "echo",
       "soldier"
@@ -513,7 +516,7 @@
         "password": "@Hgyoru007FirstLight2&"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1780990824",
     "role": [
       "echo",
       "soldier"
@@ -566,7 +569,7 @@
         "password": "https://shopee.co.id/hypergaming22"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
     "role": [
       "echo",
       "soldier"
@@ -579,7 +582,7 @@
         "password": "Atlas2Pragmata!"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
     "role": [
       "echo",
       "soldier"
@@ -596,6 +599,7 @@
         "password": "RepublikIblis123"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
     "role": [
       "echo",
       "soldier"
@@ -616,6 +620,7 @@
         "password": "Lynk.id/riptidegameshop"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1779926556",
     "role": [
       "echo",
       "soldier"
@@ -636,7 +641,7 @@
         "password": "hehDWNYFCs2002"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg?t=1777478529",
     "role": [
       "echo",
       "soldier"
@@ -649,6 +654,7 @@
         "password": "enNp5N@jIwMDI"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2072450/header.jpg?t=1781262996",  
     "role": [
       "echo",
       "soldier"
@@ -665,6 +671,7 @@
         "password": "Likeadragonishin12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1805480/header.jpg?t=1781263604",
     "role": [
       "echo",
       "soldier"
@@ -681,6 +688,7 @@
         "password": "KeluargaTambi@2024"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3061810/header.jpg?t=1781258528",
     "role": [
       "echo",
       "soldier"
@@ -693,6 +701,7 @@
         "password": "KeluargaTambi@2024"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg?t=1745534372",
     "role": [
       "echo",
       "soldier"
@@ -709,6 +718,7 @@
         "password": "0dirEFppuA1978"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2058180/header.jpg?t=1781263750",
     "role": [
       "echo",
       "soldier"
@@ -721,6 +731,7 @@
         "password": "KeluargaTambi@2024"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1611910/header.jpg?t=1764856974",
     "role": [
       "echo",
       "soldier"
@@ -741,7 +752,7 @@
         "password": "F0A5ZBSToRGqRh"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg?t=1781264130",
     "role": [
       "echo",
       "soldier"
@@ -754,6 +765,7 @@
         "password": "udfxr1sn8qRUWQ"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1768870094",
     "role": [
       "echo",
       "soldier"
@@ -770,7 +782,7 @@
         "password": "edo823138IM"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg?t=1777484267",
     "role": [
       "echo",
       "soldier"
@@ -787,6 +799,7 @@
         "password": "Jack2120"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601050/header.jpg?t=1781050653",
     "role": [
       "echo",
       "soldier"
@@ -803,6 +816,7 @@
         "password": "KeluargaTambi@2024"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444",
     "role": [
       "echo",
       "soldier"
@@ -815,6 +829,7 @@
         "password": "xiaoshenyouxi778"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1277400/header.jpg?t=1768870791",
     "role": [
       "echo",
       "soldier"
@@ -839,7 +854,7 @@
         "password": "siski33sgWb5qBslnpvkzvM"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
     "role": [
       "echo",
       "soldier"
@@ -860,7 +875,7 @@
         "password": "mdgN3NC4Nkax"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1781583348",
     "role": [
       "echo",
       "soldier"
@@ -881,6 +896,7 @@
         "password": "udxgAf2fD81985"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?t=1764776325",
     "role": [
       "echo",
       "soldier"
@@ -893,7 +909,7 @@
         "password": "rvjD3ktpLL1983"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg?t=1763530264",
     "role": [
       "echo",
       "soldier"
@@ -906,6 +922,7 @@
         "password": "ShinMegamiTens9$6"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1413480/header.jpg?t=1763531118",
     "role": [
       "echo",
       "soldier"
@@ -938,6 +955,7 @@
         "password": "dell4307"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg?t=1780594801",
     "role": [
       "echo",
       "soldier"
@@ -950,6 +968,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1776355944",
     "role": [
       "echo",
       "soldier"
@@ -962,6 +981,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231380/header.jpg?t=1764778328",
     "role": [
       "echo",
       "soldier"
@@ -974,6 +994,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/700600/header.jpg?t=1734453187",
     "role": [
       "echo",
       "soldier"
@@ -986,6 +1007,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/543460/header.jpg?t=1768869277",
     "role": [
       "echo",
       "soldier"
@@ -998,6 +1020,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1088850/bdbf8be37e665ba0e6f44111e3665d280f13ed16/header.jpg?t=1780588517",
     "role": [
       "echo",
       "soldier"
@@ -1014,6 +1037,7 @@
         "password": "DEL9OElite8Sniper9"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",  
     "role": [
       "echo",
       "soldier"
@@ -1026,6 +1050,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg?t=1780332718", 
     "role": [
       "echo",
       "soldier"
@@ -1046,7 +1071,7 @@
         "password": "Borderlands412345."
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1781548979",
     "role": [
       "echo",
       "soldier"
@@ -1063,7 +1088,7 @@
         "password": "hXrwkGeOwMOUsau"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/801800/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/801800/header.jpg?t=1776701587",
     "role": [
       "echo",
       "soldier"
@@ -1076,6 +1101,7 @@
         "password": "WRFT5VaZw"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/header.jpg?t=1777940046",
     "role": [
       "echo",
       "soldier"
@@ -1092,6 +1118,7 @@
         "password": "5XKM839MXS67"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922"
     "role": [
       "echo",
       "soldier"
@@ -1104,6 +1131,7 @@
         "password": "0Oe!brsaxqsn2206"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1780854662"
     "role": [
       "echo",
       "soldier"
@@ -1116,7 +1144,7 @@
         "password": "AVbSVyWBPVj9ksrEgNAa"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg?t=1776898545",
     "role": [
       "echo",
       "soldier"
@@ -1129,6 +1157,7 @@
         "password": "25https://t.me/steamiq"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798",
     "role": [
       "echo",
       "soldier"
@@ -1145,6 +1174,7 @@
         "password": "QqRUrVZ2uxlQixg"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
     "role": [
       "echo",
       "soldier"
@@ -1161,6 +1191,7 @@
         "password": "iijy8vMMAI19771980"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1761390/header.jpg?t=1763684613",
     "role": [
       "echo",
       "soldier"
@@ -1185,7 +1216,7 @@
         "password": "Dragonquest712345."
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499860/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1772804835",
     "role": [
       "echo",
       "soldier"
@@ -1202,6 +1233,7 @@
         "password": "0M1J0OaAbV1979"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2893570/035bf8ec4e6bd65ebea782063b1157e526533740/header.jpg?t=1773044632",
     "role": [
       "echo",
       "soldier"
@@ -1226,6 +1258,7 @@
         "password": "Lexleow12"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg?t=1766015412",
     "role": [
       "echo",
       "soldier"
@@ -1250,6 +1283,7 @@
         "password": "Codevein212345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2362060/955e8f3fce6d832c286ac8013657ed6fc51f1f85/header.jpg?t=1779973642",
     "role": [
       "echo",
       "soldier"
@@ -1266,6 +1300,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1496790/header.jpg?t=1772146079",
     "role": [
       "echo",
       "soldier"
@@ -1331,6 +1366,7 @@
         "password": "RDz4X!S5Zaw"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
     "role": [
       "echo",
       "soldier"
@@ -1347,6 +1383,7 @@
         "password": "27https://t.me/steamiq"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
     "role": [
       "echo",
       "soldier"
@@ -1363,6 +1400,7 @@
         "password": "Hesoyam14*"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/header.jpg?t=1745536404",
     "role": [
       "echo",
       "soldier"
@@ -1411,6 +1449,7 @@
         "password": "PTbRdORI"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg?t=1766058472",
     "role": [
       "echo",
       "soldier"
@@ -1427,6 +1466,7 @@
         "password": "30https://t.me/steamiq"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/517630/header.jpg?t=1728396656",
     "role": [
       "echo",
       "soldier"
@@ -1443,6 +1483,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg?t=1750957701",
     "role": [
       "echo",
       "soldier"
@@ -1463,7 +1504,7 @@
         "password": "rainyfeel123@JURASSIC"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2958130/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1781616104",
     "role": [
       "echo",
       "soldier"
@@ -1480,6 +1521,7 @@
         "password": "Murah12345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1773254369",
     "role": [
       "echo",
       "soldier"
@@ -1512,6 +1554,7 @@
         "password": "Civilization712345678."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1778872866",
     "role": [
       "echo",
       "soldier"
@@ -1552,7 +1595,7 @@
         "password": "Octopathtraveler0123456."
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3014320/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3014320/64e57769c968124451e35898eae64217f99bd9c4/header.jpg?t=1779854659",
     "role": [
       "echo",
       "soldier"
@@ -1577,7 +1620,7 @@
         "password": "DEL9OElite8Sniper9"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",
     "role": [
       "echo",
       "soldier"
@@ -1626,6 +1669,7 @@
         "password": "siski37rwwJ2Dy7pEU6ht9Y"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2169200/header.jpg?t=1765448187",
     "role": [
       "echo",
       "soldier"
@@ -1666,7 +1710,7 @@
         "password": "maneater2"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629820/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629820/header.jpg?t=1774541534",
     "role": [
       "echo",
       "soldier"
@@ -1703,7 +1747,7 @@
         "password": "Yakuza3darkties12345."
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3937550/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3937550/a90df0d7be6d8f1dd5d8eceb796840ff522d002a/header.jpg?t=1781257873",
     "role": [
       "echo",
       "soldier"
@@ -1720,7 +1764,7 @@
         "password": "S3vrb7Ooipi9doWU"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg?t=1775105127",
     "role": [
       "echo",
       "soldier"
@@ -1749,7 +1793,7 @@
         "password": "jmp8gkeiga"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1649080/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1649080/header.jpg?t=1763646611",
     "role": [
       "echo",
       "soldier"
@@ -1774,7 +1818,7 @@
         "password": "4PoshstZLw5TyEOuhn"
       }
     ],
-    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg",
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg?t=1763530422",
     "role": [
       "echo",
       "soldier"
@@ -1847,6 +1891,7 @@
         "password": "Nba2k2612345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
     "role": [
       "echo",
       "soldier"
@@ -1895,6 +1940,7 @@
         "password": "Monsterhunterstories3212345."
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/de3717096a093d7bf9ab504563621bc17e37ccf4/header.jpg?t=1778720498",
     "role": [
       "echo",
       "soldier"
@@ -1911,6 +1957,7 @@
         "password": "5M6CMGM6Z44C"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1758754863",
     "role": [
       "echo",
       "soldier"
@@ -1923,6 +1970,7 @@
         "password": "rainyfeel123@multigames"
       }
     ],
+    "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163550/header.jpg?t=1718965999",
     "role": [
       "echo",
       "soldier"
